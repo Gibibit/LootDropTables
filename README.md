@@ -1,4 +1,4 @@
-*A concept [as described by](http://www.lostgarden.com/2014/12/loot-drop-tables.html) Daniel Cook.*
+*A game design concept [as described by](http://www.lostgarden.com/2014/12/loot-drop-tables.html) Daniel Cook.*
 
 Loot Drop Tables are a content driven approach to defining what kind of loot you want to drop and with what chance.
 
