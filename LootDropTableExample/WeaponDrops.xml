@@ -1,0 +1,18 @@
+﻿<?xml version="1.0"?>
+<DropTableData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>WeaponDrops</Name>
+  <LootItems>
+    <LootItem>
+      <Name>Swashbuckling Sword of Rednecks</Name>
+      <Weight>5</Weight>
+    </LootItem>
+    <LootItem>
+      <Name>Bloody Cleaver of Shivers</Name>
+      <Weight>10</Weight>
+    </LootItem>
+    <LootItem>
+      <Name>sord</Name>
+      <Weight>20</Weight>
+    </LootItem>
+  </LootItems>
+</DropTableData>

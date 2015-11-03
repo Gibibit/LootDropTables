@@ -1,0 +1,17 @@
+﻿{
+  "Name": "WeaponDrops",
+  "LootItems": [
+    {
+      "Name": "Swashbuckling Sword of Rednecks",
+      "Weight": 5
+    },
+    {
+      "Name": "Bloody Cleaver of Shivers",
+      "Weight": 10
+    },
+    {
+      "Name": "sord",
+      "Weight": 20
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+﻿<?xml version="1.0"?>
+<ArrayOfHierarchicalLootItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>Persistent Map Drops</Name>
+  <HierarchicalLootItem>>
+    <Name>Stamina potion</Name>
+    <Number>2</Number>
+    <Weight>5</Weight>
+  </HierarchicalLootItem>
+  <HierarchicalLootItem>>
+    <Name>Coins</Name>
+    <Number>5</Number>
+    <Weight>20</Weight>
+  </HierarchicalLootItem>
+</ArrayOfHierarchicalLootItem>
