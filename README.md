@@ -6,3 +6,7 @@ Loot Drop Tables are a content driven approach to defining what kind of loot you
 - Define your tables in JSON or XML *(or generate them on the fly!)*
 - Weighted drop table allows you to set drop chance of each loot item
 - `DropTableSampler` picks random loot out of your table based on weights
+
+**Loot Table examples**
+- [XML](https://github.com/HermansGameDev/LootDropTables/blob/master/LootDropTableExample/WeaponDrops.xml)
+- [JSON](https://github.com/HermansGameDev/LootDropTables/blob/master/LootDropTableExample/WeaponDrops.json)
